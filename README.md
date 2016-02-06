@@ -12,6 +12,8 @@ how to make a full screen landing page
 
 use this project is a boilerplate for starting scss projects
 
+this is an improvement on the scss workflow done in [css-flexbox](https://github.com/shawn-dsz/css-flex-box)
+
 using
 - autoPrefixer
 - clean ```gulp clean```
