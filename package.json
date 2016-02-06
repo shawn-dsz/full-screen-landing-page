@@ -1,0 +1,27 @@
+{
+  "name": "full-screen-landing-page",
+  "version": "1.0.0",
+  "description": "how to make a full screen landing page",
+  "main": "index.html",
+  "scripts": {
+    "start": "watch-http-server ./dist/",
+    "dev": "gulp dev",
+    "publish": "gulp publish",
+    "prepublish": "gulp prepublish"
+  },
+  "author": "shawndsouz@outlook.com",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-clean": "^0.3.1",
+    "gulp-jade": "^1.1.0",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-shell": "^0.5.2",
+    "gulp-watch": "^4.3.5",
+    "jade": "^1.11.0",
+    "node-sass": "^3.4.2",
+    "watch-http-server": "^0.7.6"
+  }
+}
