@@ -1,0 +1,21 @@
+{
+  "name": "full-screen-landing-page",
+  "description": "how to make a full screen landing page",
+  "main": "index.html",
+  "authors": [
+    "shawndsouz@outlook.com"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-scss": "^3.0.3"
+  }
+}

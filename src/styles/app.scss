@@ -1,3 +1,6 @@
+$peach: #fff;
+$background-color: rgba($peach, 1);
+
 body {
-  background-color: #f00;
+  background: $background-color;
 }
