@@ -1,6 +1,43 @@
-$peach: #fff;
+@import 'normalize';
+
+$peach: #F6F2E0;
 $background-color: rgba($peach, 1);
 
 body {
+  height: 100%;
+  font-family: sans-serif;
   background: $background-color;
+}
+
+header {
+  background-image: url(http://antwuanmalone.com/wp-content/uploads/2014/02/rsz_walk_on_water2.jpg);
+  height: 100vh;
+  background-size: cover;
+  margin-bottom: 50px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.header-content {
+  background: rgba(#000,.63);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+    width: 100vw;
+    text-align: center;
+    padding: 20px;
+}
+
+p {
+  max-width: 600px;
+  margin: 0 auto 20px;
+}
+
+.content {
+  padding: 20px;
 }
