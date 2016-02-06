@@ -1,4 +1,4 @@
-# css flex box
+# full-screen-landing-page
 
 ## purpose
 how to make a full screen landing page
@@ -44,6 +44,6 @@ Navigate to ```http://localhost:8080```
 
 ## deployment
 
-I have deployed the result of this site using [surge](http://surge.sh) to [css-flexbox.surge.sh](#)
+I have deployed the result of this site using [surge](http://surge.sh) to [smooth-landing.surge.sh](http://smooth-landing.surge.sh/)
 
-```npm run deploy``` will host the contents of ```dist``` to [css-flexbox.surge.sh](#)
+```npm run deploy``` will host the contents of ```dist``` to [smooth-landing.surge.sh](http://smooth-landing.surge.sh/)
